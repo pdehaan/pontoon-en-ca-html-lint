@@ -1,0 +1,17 @@
+{
+  "name": "pontoon-en-ca-html-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "htmllint": "^0.8.0",
+    "xml2js": "^0.4.23"
+  }
+}
